@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "初恋シンデレラ",
   "base_artist": "≒JOY",
-  "createdAt": "2025-12-27T15:19:01.157258Z",
+  "createdAt": "2026-04-03T13:51:07.807533Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,24 @@
       "artist": "≒JOY",
       "has_synced": false,
       "path": "select/pl_01_初恋シンデレラ_≒JOY.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "初恋シンデレラ",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/localdb_01_初恋シンデレラ_≒JOY.txt",
+      "repo_name": "S-TClIF09u0"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "初恋シンデレラ",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/localdb_02_初恋シンデレラ_≒JOY.lrc",
+      "repo_name": "Vgwuc0C9UoQ"
     }
   ]
 }
